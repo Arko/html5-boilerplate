@@ -1,5 +1,5 @@
 [HTML5 Boilerplate homepage](http://html5boilerplate.com) | [Documentation
-table of contents](README.md)
+table of contents](TOC.md)
 
 # Frequently asked questions
 
@@ -53,7 +53,7 @@ installed.
 Use the following CSS to prevent Skype from formatting the numbers on your
 page:
 
-```
+```css
 span.skype_pnh_container {
     display: none !important;
 }
